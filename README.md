@@ -285,7 +285,7 @@ This workflow is useful for managing different versions and environments (e.g., 
 
 **4. View Task after marked done**
 
-![Alt text](./screenshot\view-after-done.png)
+![Alt text](./screenshot/view-after-done.png)
 
 The change in the json data.
 
