@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 VOLUME /app/data
 
 # Set the entry point to run the Python script
-ENTRYPOINT ["python", "app.py"]
+ENTRYPOINT ["python","\task-manager\app.py"]

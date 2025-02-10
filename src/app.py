@@ -2,7 +2,7 @@ import json
 import os
 
 # Store tasks.json in a volume-mounted directory
-tasks_file = "/app/data/tasks.json"
+tasks_file = os.path.join("task-manager/data", "tasks.json")
 
 def load_tasks():
     # Check if the tasks file exists in the mounted volume
@@ -12,7 +12,9 @@ def load_tasks():
     return []
 
 def save_tasks(tasks):
-    # Save tasks to the volume-mounted tasks.json
+    # Ensure the 'data' directory exists before writing the file
+    if not os.path.exists("data"):
+        os.makedirs("data")
     with open(tasks_file, "w") as file:
         json.dump(tasks, file, indent=4)
 
