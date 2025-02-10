@@ -268,6 +268,9 @@ This workflow is useful for managing different versions and environments (e.g., 
 
 # **Application Screenshots**
 
+**Container status-running**
+
+![Alt text](screenshot\running-container.png)
 **1. Add Task**
 
 ![Alt text](screenshot\add_task.png)
@@ -294,6 +297,10 @@ The change in the json data.
 
 **2. Exit Application**
 
-![Alt text](screenshot\exiting.png)
+
+![System-high-level-architecture][def]
+
+[def]: screenshot\exiting.png
+
 
 
