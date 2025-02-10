@@ -261,7 +261,7 @@ docker images
 
 ---
 
-![Alt text](screenshot\docker-images.png)
+![Alt text](./screenshot/docker-images.png)
 
 This workflow is useful for managing different versions and environments (e.g., production, staging) of your Dockerized application.
 
