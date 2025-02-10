@@ -297,10 +297,6 @@ The change in the json data.
 
 **2. Exit Application**
 
-
-![System-high-level-architecture][def]
-
-[def]: screenshot\exiting.png
-
+![Alt text](./screenshot/exiting.png)
 
 
