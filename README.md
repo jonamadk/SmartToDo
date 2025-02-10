@@ -270,30 +270,30 @@ This workflow is useful for managing different versions and environments (e.g., 
 
 **Container status-running**
 
-![Alt text](screenshot\running-container.png)
+![Alt text](./screenshot/running-container.png)
 **1. Add Task**
 
-![Alt text](screenshot\add_task.png)
+![Alt text](./screenshot/add_task.png)
 
 **2. View Task**
 
-![Alt text](screenshot\view_task.png)
+![Alt text](./screenshot/view_task.png)
 
 **3. Mark task as Done**
 
-![Alt text](screenshot\mark_done.png)
+![Alt text](./screenshot/mark_done.png)
 
 **4. View Task after marked done**
 
-![Alt text](screenshot\view-after-done.png)
+![Alt text](./screenshot\view-after-done.png)
 
 The change in the json data.
 
-![Alt text](screenshot\data-change-for-mark-as-done.png)
+![Alt text](./screenshot/data-change-for-mark-as-done.png)
 
 **2. Delete Task**
 
-![Alt text](screenshot\task-deleted.png)
+![Alt text](./screenshot/task-deleted.png)
 
 **2. Exit Application**
 
